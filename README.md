@@ -61,3 +61,4 @@ python eda-e-analise-de-credito.py
 
 ## Observações
 Certifique-se de que o arquivo credito.csv esteja formatado corretamente com as colunas esperadas e que as bibliotecas estejam atualizadas.
+Acesse também o notebook no Kaggle para mais informações em sobre a origem dos dados e análises em SQL: https://www.kaggle.com/code/marquesviniciusc/eda-e-analise-de-credito
