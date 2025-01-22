@@ -1,8 +1,11 @@
 '''
-# Análise Exploratória (EDA) e Análise de crédito usando SQL
-Análise Exploratória (EDA) e Análise de Crédito Este projeto visa realizar uma análise exploratória e estatística de um conjunto de dados fictício relacionado a informações de clientes, como idade, escolaridade, estado civil, faixa salarial e comportamento de consumo. A análise tem como objetivo identificar padrões e insights relevantes que possam auxiliar na criação de estratégias de crédito e políticas financeiras mais eficazes.
+# Perfil Financeiro e Análise de Crédito
+Este projeto visa realizar uma análise exploratória e estatística de um conjunto de dados fictício relacionado a informações de 
+clientes, como idade, escolaridade, estado civil, faixa salarial e comportamento de consumo. A análise tem como objetivo identificar 
+padrões e insights relevantes que possam auxiliar na criação de estratégias de crédito e políticas financeiras mais eficazes.
 
-Além disso, exploramos a relação entre diferentes variáveis como gênero, escolaridade, tipo de cartão, dependentes e limite de crédito, com o intuito de entender melhor o perfil dos clientes e os fatores que influenciam seu comportamento financeiro.
+Além disso, exploramos a relação entre diferentes variáveis como gênero, escolaridade, tipo de cartão, dependentes e limite de crédito,
+com o intuito de entender melhor o perfil dos clientes e os fatores que influenciam seu comportamento financeiro.
 
 ---------------------------------------------------------------
 Objetivos:
