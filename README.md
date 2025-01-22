@@ -1,4 +1,4 @@
-# EDA e Análise de Crédito
+# Perfil Financeiro e Análise de Crédito
 
 Este projeto realiza uma análise exploratória e estatística de dados relacionados ao crédito de clientes, com o objetivo de identificar padrões de comportamento financeiro e insights valiosos para tomadas de decisão estratégicas.
 
