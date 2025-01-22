@@ -4,14 +4,17 @@ Este projeto realiza uma análise exploratória e estatística de dados relacion
 
 ## Funcionalidades
 **- Limpeza de Dados:** Remoção de linhas com valores ausentes.
+
 **- Análise Exploratória de Dados (EDA):**
     - Distribuição de gênero, faixa salarial e tipo de cartão.
     - Gastos médios por gênero, escolaridade, estado civil e número de dependentes.
     - Limite de crédito médio por tipo de cartão.
     - Correlações entre variáveis financeiras.
+    
 **- Visualizações Interativas:**
     - Gráficos de barras, pizza e heatmaps.
     - Representação clara das relações entre as variáveis.
+    
 **- Requisitos**
 - Python 3.x
 - Bibliotecas Python:
