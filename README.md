@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Como usar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/analise-de-credito.git
+git clone https://github.com/marques-viniciusc/eda-e-analise-de-credito
 ```
 2. Instale as dependências:
 ```bash
@@ -45,11 +45,15 @@ python eda-e-analise-de-credito.py
 ## Exemplos de Insights
 
 **- Distribuição de Gênero:** A maioria dos clientes é do sexo masculino.
+
 **- Gasto Médio por Gênero:** Mulheres gastam ligeiramente mais do que homens, mas a diferença é pequena.
+
 **- Faixa Salarial:** A maioria dos clientes ganha menos de $40k por ano.
+
 **- Tipo de Cartão:**
     - Cartões "blue" têm menor limite e gasto médio.
     - Cartões "gold" possuem os maiores valores de limite e gasto médio.
+    
 **- Dependentes:** Clientes com menos dependentes gastam mais.
 
 ## Observações
